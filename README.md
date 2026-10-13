@@ -117,3 +117,5 @@ python panic_attack_therapy_prediction.py
 - Additional machine learning algorithms
 - Interactive prediction interface
 - Model deployment as a web application
+
+> **Disclaimer:** This project is developed for academic and portfolio purposes only. It is a machine learning project intended to demonstrate data preprocessing, analysis, classification, and model evaluation techniques. It is not a medical diagnostic tool and should not be used to diagnose conditions, recommend treatment, or make clinical decisions.
